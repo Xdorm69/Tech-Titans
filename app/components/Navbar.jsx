@@ -4,7 +4,7 @@ import { FaShoppingCart } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav className="sticky top-0 bg-transparent backdrop-blur-sm z-20">
+    <nav className="sticky top-0 bg-transparent backdrop-blur-sm z-50">
       <div className="container">
         <div className="flex justify-between items-center py-5 bg-transparent">
           <div className="logo">
